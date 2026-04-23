@@ -17,7 +17,7 @@
 
 <p>
   <a href="https://hibi-personalassistant.vercel.app/">
-    <img src=https://github.com/user-attachments/assets/d96d90d0-afa0-455f-bfb4-e4248dfad1cd" />
+    <img src="https://github.com/user-attachments/assets/d96d90d0-afa0-455f-bfb4-e4248dfad1cd" />
   </a>
 </p>
 
@@ -36,7 +36,7 @@
   <img height="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> 
   <img height="50" src="https://img.icons8.com/color/48/000000/css3.png" />
   <img height="50" src="https://img.icons8.com/color/48/000000/javascript.png"/> 
-  <img height="50" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png"/> 
+  <img height="50" src="https://github.com/user-attachments/assets/0964b5e5-8e1e-4439-aaf1-690746e21c75" />
   <img height="50" src="https://img.icons8.com/fluency/48/vite.png"/> 
   <img height="50" src="https://img.icons8.com/color/48/nextjs.png"/> 
   <img height="50" src="https://img.icons8.com/color/48/000000/mongodb.png"/> 
@@ -61,7 +61,7 @@
 ## 🛠️ IDE & Tools
 <p align="left">
   <img height="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> 
-  <img height="50" src="https://github.com/user-attachments/assets/1e7175b7-8deb-4e68-8832-5c6eb39098bb"/> 
+  <img height="50" src="https://github.com/user-attachments/assets/760fdfbc-3156-41b8-8c19-7da0b2dc738e" />
   <img height="50" src="https://img.icons8.com/color/50/000000/git.png"/> 
   <img height="50" src="https://img.icons8.com/fluency/48/docker.png"/> 
   <img height="50" src="https://img.icons8.com/color/48/figma--v1.png"/> 
