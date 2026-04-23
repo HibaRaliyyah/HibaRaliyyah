@@ -2,7 +2,9 @@
 
 <p>Computer Science Engineering Student</p>
 
-<img align="right" width="370" height="290" src="https://github.com/user-attachments/assets/8d0be829-152f-4c87-bd0d-7bd71e439480" />
+<table>
+<tr>
+<td>
 
 - 🔭 My <a href="https://hibaraliyyah-portfolio.vercel.app/">Portfolio</a>  
 - 🌱 Aspiring Full Stack Developer passionate about building meaningful digital experiences  
@@ -13,6 +15,14 @@
   </a>
 </p>
 
+</td>
+
+<td>
+<img width="320" src="https://github.com/user-attachments/assets/8d0be829-152f-4c87-bd0d-7bd71e439480"/>
+</td>
+</tr>
+</table>
+
 ---
 
 ## 🚀 Tech Stack
@@ -20,7 +30,7 @@
   <img height="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> 
   <img height="50" src="https://img.icons8.com/color/48/000000/css3.png" />
   <img height="50" src="https://img.icons8.com/color/48/000000/javascript.png"/> 
-  <img height="50" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png"/> 
+  <img height="50" width="20" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png"/> 
   <img height="50" src="https://img.icons8.com/fluency/48/vite.png"/> 
   <img height="50" src="https://img.icons8.com/color/48/nextjs.png"/> 
   <img height="50" src="https://img.icons8.com/color/48/000000/mongodb.png"/> 
