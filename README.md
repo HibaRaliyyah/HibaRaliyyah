@@ -15,6 +15,12 @@
   </a>
 </p>
 
+<p>
+  <a href="https://hibi-personalassistant.vercel.app/">
+    <img src=https://github.com/user-attachments/assets/d96d90d0-afa0-455f-bfb4-e4248dfad1cd" />
+  </a>
+</p>
+
 </td>
 
 <td>
@@ -30,7 +36,7 @@
   <img height="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> 
   <img height="50" src="https://img.icons8.com/color/48/000000/css3.png" />
   <img height="50" src="https://img.icons8.com/color/48/000000/javascript.png"/> 
-  <img height="50" width="20" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png"/> 
+  <img height="50" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png"/> 
   <img height="50" src="https://img.icons8.com/fluency/48/vite.png"/> 
   <img height="50" src="https://img.icons8.com/color/48/nextjs.png"/> 
   <img height="50" src="https://img.icons8.com/color/48/000000/mongodb.png"/> 
