@@ -1,8 +1,8 @@
 <h1 align="left">Hello 👋 It's me Hiba Raliyyah</h1>
 
 <p>Computer Science Engineering Student</p>
+
 <img align="right" width="370" height="290" src="https://github.com/user-attachments/assets/8d0be829-152f-4c87-bd0d-7bd71e439480" />
-">
 
 - 🔭 My <a href="https://hibaraliyyah-portfolio.vercel.app/">Portfolio</a>  
 - 🌱 Aspiring Full Stack Developer passionate about building meaningful digital experiences  
@@ -17,41 +17,41 @@
 
 ## 🚀 Tech Stack
 <p align="left">
-  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> 
-  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" />
-  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/> 
-  <img height="50" width="50" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png"/> 
-  <img height="50" width="50" src="https://img.icons8.com/fluency/48/vite.png"/> 
-  <img height="50" width="50" src="https://img.icons8.com/color/48/nextjs.png"/> 
-  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mongodb.png"/> 
-  <img height="50" width="50" src="https://img.icons8.com/color/48/express-js.png"/> 
-  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/nodejs.png"/> 
-  <img height="50" width="50" src="https://img.icons8.com/color/48/tailwind_css.png"/> 
-  <img height="50" width="50" src="https://github.com/user-attachments/assets/84cfdc34-74e1-4f92-96da-aad22c938fa0"/> 
-  <img height="50" width="50" src="https://github.com/user-attachments/assets/827ebc87-a781-4856-90c6-1f30c0d8249d"/> 
-  <img height="50" width="50" src="https://github.com/user-attachments/assets/578a65a1-01db-4abb-bc5d-a4f2ee6a4bb2"/> 
-  <img height="50" width="50" src="https://github.com/user-attachments/assets/d5c42b16-91fd-416f-a2b1-7c5e7239f28c"/> 
-  <img height="50" width="50" src="https://github.com/user-attachments/assets/8d69349c-fef5-4b1d-8c1d-377cfd5fb12d"/> <img height="50" width="50" src="https://github.com/user-attachments/assets/39408e0f-c052-4598-b37a-e1f0a36351cc"/> 
-  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> 
-  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> 
-  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/sass.png"/> 
-  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/bootstrap.png" /> 
-  <img height="50" width="50" src="https://github.com/user-attachments/assets/349d9aee-68f5-4b94-9716-e86421bf367d"/>
-
+  <img height="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> 
+  <img height="50" src="https://img.icons8.com/color/48/000000/css3.png" />
+  <img height="50" src="https://img.icons8.com/color/48/000000/javascript.png"/> 
+  <img height="50" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png"/> 
+  <img height="50" src="https://img.icons8.com/fluency/48/vite.png"/> 
+  <img height="50" src="https://img.icons8.com/color/48/nextjs.png"/> 
+  <img height="50" src="https://img.icons8.com/color/48/000000/mongodb.png"/> 
+  <img height="50" src="https://img.icons8.com/color/48/express-js.png"/> 
+  <img height="50" src="https://img.icons8.com/color/48/000000/nodejs.png"/> 
+  <img height="50" src="https://img.icons8.com/color/48/tailwind_css.png"/> 
+  <img height="50" src="https://github.com/user-attachments/assets/84cfdc34-74e1-4f92-96da-aad22c938fa0"/> 
+  <img height="50" src="https://github.com/user-attachments/assets/827ebc87-a781-4856-90c6-1f30c0d8249d"/> 
+  <img height="50" src="https://github.com/user-attachments/assets/578a65a1-01db-4abb-bc5d-a4f2ee6a4bb2"/> 
+  <img height="50" src="https://github.com/user-attachments/assets/d5c42b16-91fd-416f-a2b1-7c5e7239f28c"/> 
+  <img height="50" src="https://github.com/user-attachments/assets/8d69349c-fef5-4b1d-8c1d-377cfd5fb12d"/> 
+  <img height="50" src="https://github.com/user-attachments/assets/39408e0f-c052-4598-b37a-e1f0a36351cc"/> 
+  <img height="50" src="https://img.icons8.com/color/48/000000/python.png" /> 
+  <img height="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> 
+  <img height="50" src="https://img.icons8.com/color/48/000000/sass.png"/> 
+  <img height="50" src="https://img.icons8.com/color/48/000000/bootstrap.png" /> 
+  <img height="50" src="https://github.com/user-attachments/assets/349d9aee-68f5-4b94-9716-e86421bf367d"/>
 </p>
 
 ---
 
 ## 🛠️ IDE & Tools
 <p align="left">
-  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> 
-  <img height="50" width="50" src="https://github.com/user-attachments/assets/1e7175b7-8deb-4e68-8832-5c6eb39098bb"/> 
-  <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> 
-  <img height="50" width="50" src="https://img.icons8.com/fluency/48/docker.png"/> 
-  <img height="50" width="50" src="https://img.icons8.com/color/48/figma--v1.png"/> 
-  <img height="50" width="50" src="https://img.icons8.com/fluency/48/claude-ai.png"/> 
-  <img height="50" width="50" src="https://img.icons8.com/fluency/48/hugging-face_app.png"/> 
-  <img height="50" width="50" src="https://github.com/user-attachments/assets/4c298790-e447-436f-a620-2f4ed269144e"/> 
+  <img height="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> 
+  <img height="50" src="https://github.com/user-attachments/assets/1e7175b7-8deb-4e68-8832-5c6eb39098bb"/> 
+  <img height="50" src="https://img.icons8.com/color/50/000000/git.png"/> 
+  <img height="50" src="https://img.icons8.com/fluency/48/docker.png"/> 
+  <img height="50" src="https://img.icons8.com/color/48/figma--v1.png"/> 
+  <img height="50" src="https://img.icons8.com/fluency/48/claude-ai.png"/> 
+  <img height="50" src="https://img.icons8.com/fluency/48/hugging-face_app.png"/> 
+  <img height="50" src="https://github.com/user-attachments/assets/4c298790-e447-436f-a620-2f4ed269144e"/> 
 </p>
 
 ---
